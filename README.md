@@ -13,7 +13,7 @@ In this project, we'll predict the price of the S&P500 stock market index.
 
 File overview:
 
-* `market_prediction.ipynb` - a Jupyter notebook that contains all of the code.
+* `notebook.ipynb` - a Jupyter notebook that contains all of the code.
 
 # Local Setup
 
