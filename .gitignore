@@ -1,0 +1,118 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+.idea/
+
+# ==========================
+# Spyder
+# ==========================
+.spyderproject
+.spyproject
+
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# Windows
+# ==========================
+Thumbs.db
+Desktop.ini
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# Model Files
+# (Remove if you want to upload trained models)
+# ==========================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# ==========================
+# TensorBoard
+# ==========================
+runs/
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ==========================
+# Coverage
+# ==========================
+.coverage
+coverage.xml
+htmlcov/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+# Large Data Files (Optional)
+# Uncomment if dataset can be downloaded separately
+# ==========================
+# data/
+# datasets/
+# *.csv
+# *.zip
